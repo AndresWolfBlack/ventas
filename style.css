@@ -1,0 +1,70 @@
+.estiloceldas {
+    background-color: rgb(199, 208, 216);
+    width: 300px;
+    height: 1000;
+    text-align: center;
+    font-size: 10px;
+}
+
+.estilocelda-2 {
+    background-color: maroon;
+    width: 50px;
+    height: 30px;
+}
+
+.estilocelda-3 {
+    width: 300px;
+    height: 1000;
+    text-align: center;
+    padding-top: 20px;
+    font-size: 10px;
+}
+
+.estilocelda-4 {
+    background-color: rgb(199, 208, 216);
+    width: 170px;
+    height: 1000;
+    text-align: center justify;
+    font-size: 12px;
+}
+
+.estiloicono {
+    background-color: white;
+    width: 20px;
+    height: 20px;
+}
+
+.Precio {
+    line-height: 50px;
+    width: 100px;
+    height: 10px;
+    border-radius: 10px 10px 10px 10px;
+    -moz-border-radius: 10px 10px 10px 10px;
+    -webkit-border-radius: 10px 10px 10px 10px;
+    border: 0px solid #000000;
+    background-color: maroon;
+    margin-left: 70px;
+    padding-bottom: 30px;
+    padding-left: 10px;
+    color: white;
+}
+
+.registrar {
+    line-height: 50px;
+    width: 90px;
+    height: 4px;
+    border-radius: 10px 10px 10px 10px;
+    -moz-border-radius: 10px 10px 10px 10px;
+    -webkit-border-radius: 10px 10px 10px 10px;
+    border: 0px solid #000000;
+    background-color: limegreen;
+    margin-left: 35px;
+    padding-bottom: 30px;
+    padding-left: 10px;
+    color: white;
+    font-size: 20px;
+}
+
+.alineatexto {
+    text-align: center justify;
+}
